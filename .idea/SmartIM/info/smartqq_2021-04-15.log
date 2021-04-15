@@ -1,0 +1,78 @@
+2021-04-15 09:29:40.052 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 正在获取 uuid ... 
+2021-04-15 09:29:40.312 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 正在获取二维码 ... 成功
+
+2021-04-15 09:29:41.463 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:30:06.696 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:30:07.697 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:30:32.772 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:30:33.772 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:30:58.850 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:30:59.850 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:31:24.933 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:31:25.933 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:31:51.008 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:31:52.008 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:32:17.076 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:32:17.576 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:32:42.651 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:32:43.151 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:33:08.222 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:33:08.723 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:33:33.794 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 09:33:34.295 [Thread-12] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 09:33:59.374 [Thread-12] WARN  io.github.biezhi.wechat.api.WechatApi -
+				[登陆超时] 
+
+2021-04-15 12:40:02.741 [Thread-6] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 正在获取 uuid ... 
+2021-04-15 12:40:02.996 [Thread-6] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 正在获取二维码 ... 成功
+
+2021-04-15 12:40:04.149 [Thread-6] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请使用微信扫描二维码以登录 ... 
+
+2021-04-15 12:40:12.560 [Thread-6] INFO  io.github.biezhi.wechat.api.WechatClient -
+				[*] 请在手机上点击确认以登录 ... 
+
+2021-04-15 12:40:14.614 [Thread-6] INFO  io.github.biezhi.wechat.api.WechatApi -
+				[*] 设置cookie []
