@@ -1,8 +1,5 @@
 # coding:UTF-8
 import requests
-kw = {'wd':'长城'}
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"}
-response = requests.get()
-print response.text
-print response.content
-print response.url
+headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
+r = requests.get('https://www.douban.com/',headers=headers)
+print(r.status_code)
