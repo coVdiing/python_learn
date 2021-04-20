@@ -11,5 +11,5 @@ def generate_coupon(number):
         coupon_list.append(''.join(str(uuid.uuid4()).split('-')))
     return coupon_list
 
-print generate_coupon(200)
+# print(generate_coupon(200))
 

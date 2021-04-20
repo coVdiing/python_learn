@@ -1,11 +1,9 @@
-from function import show_time
-from function import show_month
 # show_time()
 
 # show_month()
 
-name = 2
-print name
+weight = 12
+service_code = 'ALL'
+assert 13 > int(weight) > 0, 'invalid package weight'
 
-a = 1 if name == None else 2
-print a
+assert str(service_code).upper() != 'ALL', 'invalid package delivery service'
