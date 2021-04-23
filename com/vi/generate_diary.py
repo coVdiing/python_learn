@@ -31,8 +31,9 @@ def analyse_diary():
     for item in list:
         filename = filepath+'/'+item
         if filename.endswith('.txt'):
-            with open(filename) as file:
+            with open(filename,'rb') as file:
                 content = file.read()
+                content = content.decode('utf-8')
                 word_list =  re.findall(pattern,content)
                 for word in word_list:
                     if word not in word_dict.keys():
